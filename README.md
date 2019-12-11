@@ -10,24 +10,35 @@ Tianxiao Zhang
 Xiaohan Zhang
 
 (2) structure
+
 -- folder that contains all data files --
-/data                             
+
+/data
+
 /data/Beijing_housing_price.csv
+
 /data/kc_house_data.csv
 
 -- notebook for anomaly detection --
+
 /Anomaly_detection_Beijing.ipynb
+
 /Anomaly_detection_KC.ipynb
 
 -- notebook for regression and time series forecasting --
+
 /Housing_predict-Beijing.ipynb
+
 /Housing_predict-KC.ipynb
 
 -- notebook for clustering --
+
 cluster.ipynb
 
 -- notebook for classification --
+
 /Classification_Beijing.ipynb
+
 /Classification_kc.ipynb
 
 (3) what we did
