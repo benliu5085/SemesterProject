@@ -2,11 +2,11 @@
 This is the semester project for EECS 731 data science.
 
 (1) team member:
-Kun He 
-Chiehen Hung 
-Ben Liu
-Guojun Xiong 
-Tianxiao Zhang 
+Kun He, 
+Chiehen Hung,  
+Ben Liu, 
+Guojun Xiong,  
+Tianxiao Zhang,  
 Xiaohan Zhang
 
 (2) structure
