@@ -1,7 +1,7 @@
 # SemesterProject
 This is the semester project for EECS 731 data science.
 
-(1) team member:
+# team member:
 Kun He, 
 Chiehen Hung,  
 Ben Liu, 
@@ -9,7 +9,7 @@ Guojun Xiong,
 Tianxiao Zhang,  
 Xiaohan Zhang
 
-(2) structure
+# structure
 
 -- folder that contains all data files --
 
@@ -41,7 +41,7 @@ cluster.ipynb
 
 /Classification_kc.ipynb
 
-(3) what we did
+# what we did
 ## Anomaly Detection
 
 For anomaly detection, there are three main anomalies: Point Anomalies, Contextual Anomalies, Collective Anomalies.
