@@ -24,27 +24,31 @@ Xiaohan Zhang
 
 /data/kc_house_data.csv
 
+-- folder that contains all data files --
+
+/notebook
+
 -- notebook for anomaly detection --
 
-/Anomaly_detection_Beijing.ipynb
+/notebook/Anomaly_detection_Beijing.ipynb
 
-/Anomaly_detection_KC.ipynb
+/notebook/Anomaly_detection_KC.ipynb
 
 -- notebook for regression and time series forecasting --
 
-/Housing_predict-Beijing.ipynb
+/notebook/Housing_predict-Beijing.ipynb
 
-/Housing_predict-KC.ipynb
+/notebook/Housing_predict-KC.ipynb
 
 -- notebook for clustering --
 
-cluster.ipynb
+/notebookcluster.ipynb
 
 -- notebook for classification --
 
-/Classification_Beijing.ipynb
+/notebook/Classification_Beijing.ipynb
 
-/Classification_kc.ipynb
+/notebook/Classification_kc.ipynb
 
 # what we did
 ## Anomaly Detection
